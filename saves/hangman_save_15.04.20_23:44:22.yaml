@@ -1,0 +1,14 @@
+---
+word: nanking
+running_result:
+- " _ "
+- " _ "
+- " _ "
+- " _ "
+- " _ "
+- " _ "
+- " G "
+letters_guessed:
+- g
+- e
+remaining_attempts: 5
